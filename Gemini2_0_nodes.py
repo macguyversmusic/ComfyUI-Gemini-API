@@ -472,3 +472,4 @@ class GeminiImageGenerator:
 
 NODE_CLASS_MAPPINGS = {"Google-Gemini": GeminiImageGenerator}
 NODE_DISPLAY_NAME_MAPPINGS = {"Google-Gemini": "Gemini 2.0 image"}
+
